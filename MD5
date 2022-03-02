@@ -1,0 +1,16 @@
+87a3500f78f40c9cc6e97756e1603313 *DESCRIPTION
+75a31a28b88c5e99f0a3e14a2de2037d *NAMESPACE
+2edc3075fc841c68d1e0d99e5c3327ab *NEWS.md
+5c66a55d77b2c6d1c0524f0ca93f82bd *R/RcppExports.R
+9bb3d315de97c8f3c98ba9651c94e171 *R/package.R
+b626cfed37719210563b424288cbe0b8 *README.md
+fac6ad5c9e755691c777594f5e0ff40b *build/partial.rdb
+3e36021ff2244548ebf71b45121c86ac *inst/include/dccpp.h
+dc1a52625206f31d9f5c71a0b5eb087f *man/dcor.Rd
+f8fb71423035947d349c9659f2352c03 *man/dcov.Rd
+0a91986c2d563d43fc77df778b38bbfc *src/Makevars
+a46c8c318c2704da16af116f2ad99a52 *src/Makevars.win
+36916f5d0ae97bdde0344dff8fa89ea7 *src/RcppExports.cpp
+f9c98d7023b6d9665fc862a0ba838fa9 *src/dc.cpp
+1c8d7458522a1320179ff808531c5cd0 *tests/testthat.R
+7a9efadc69bb9ed7368e4eba8c58fe15 *tests/testthat/test-result.R
